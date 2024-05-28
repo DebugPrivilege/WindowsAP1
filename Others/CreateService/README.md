@@ -223,3 +223,7 @@ void UninstallService() {
     CloseServiceHandle(schSCManager);
 }
 ```
+
+This is how it looks like when we execute the code. Service is created:
+
+![image](https://github.com/DebugPrivilege/WindowsAP1/assets/63166600/42f4e856-dd58-419e-a910-b032c69193fb)
